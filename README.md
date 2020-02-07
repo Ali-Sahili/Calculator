@@ -10,7 +10,9 @@ methods that can resolve it.
 These methods can be divided into two main categories:
 1. Iterative methods: where the final solution of the equations is very close to the real solution 
 with a small tolrence to be choosed.
-2. Exact methods: this kind of methods leads to the excat solution but it can take a long time.
+2. Exact methods: this kind of methods leads to the excat solution.
+
+These two methods are widely used and have proven their worth over time.
 
 ### Utility
 In this project, I implemented two main methods: the jaccobi method which is very useful methods for 
